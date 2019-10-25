@@ -1,16 +1,20 @@
-{'ID': '1288604967',
-  'childs': [],
-  'code': '1D4B',
-  'defn': 'A disease caused by an infection with Kyasanur Forest disease virus.
-  This disease commonly presents with fever, chills, headache, muscle pain and vomiting,
-  or gastrointestinal symptoms and bleeding. This disease may also present with 
-  neurological manifestations such as a severe headache, mental disturbances,
-  tremors, or vision deficits. Transmission is through the bite of an infected
-  tick or by direct contact with an infected animal. Confirmation 
-  is by identification of Kyasanur Forest disease virus in a serum sample.',
-  'is_leaf_node': True,
-  'parents': ['839103338', '1238540753', '921595235'],
-  'syns': [u'KFD - [ Kyasanur Forest disease]',
-   u'monkey fever',
-   u'monkey sickness'],
-  'title': 'Kyasanur Forest disease'},
+{
+   'ID':'1288604967',
+   'childs':[
+
+   ],
+   'code':'1D4B',
+   'defn':'A disease caused by an infection with Kyasanur Forest disease virus....',
+   'is_leaf_node':True,
+   'parents':[
+      '839103338',
+      '1238540753',
+      '921595235'
+   ],
+   'syns':[
+      'KFD - [ Kyasanur Forest disease]',
+      'monkey fever',
+      'monkey sickness'
+   ],
+   'title':'Kyasanur Forest disease'
+}
