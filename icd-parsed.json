@@ -1,8 +1,6 @@
 {
    'ID':'1288604967',
-   'childs':[
-
-   ],
+   'childs':['1888209399', '1791817517', '1080592090'],
    'code':'1D4B',
    'defn':'A disease caused by an infection with Kyasanur Forest disease virus....',
    'is_leaf_node':True,
